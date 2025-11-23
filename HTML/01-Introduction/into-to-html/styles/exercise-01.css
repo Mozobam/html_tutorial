@@ -1,0 +1,24 @@
+      .profile {
+                font-family: Arial;
+                margin-bottom: 5px;
+            }
+
+            .description {
+                margin-top: 0px; 
+            }
+
+            .email {
+                font-weight: bold;
+            }
+
+            .tag {
+                color: gray;
+            }
+
+            .description {
+                width: 450px;
+            }
+
+            .tag2 {
+                color: rgb(6, 183, 253)
+            }
